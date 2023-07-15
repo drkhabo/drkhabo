@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drkhabo
-- 👀 I’m interested in data science, data analytics, healthcare, public health and project management
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in data science, data analytics, sql, healthcare, public health/epidemiology, and project management
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on Python coding, and SQL
 - 📫 How to reach me https://www.linkedin.com/in/bekezela-bobbie-khabo-07a81235/
 
